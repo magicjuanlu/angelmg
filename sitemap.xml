@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://angelmg.es/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/about-me/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/brief-background/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/curriculum-vitae/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/hobbies/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/projects/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/current-research/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/previous-projects/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/news/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://angelmg.es/contact/</loc>
+  <lastmod>2020-05-15T17:10:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
